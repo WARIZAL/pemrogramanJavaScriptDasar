@@ -1,7 +1,7 @@
 ﻿# pemrogramanJavaScriptDasar
  
  
- ** Yang saya plajari **
+ ***Yang saya plajari***
  
  * -variabel
  * -tipe data
